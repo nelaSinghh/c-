@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<vonio.h>
+void main()
+{   
+   clrscr();
+   cout<<"hello world";
+   getch();
+}   
+   
